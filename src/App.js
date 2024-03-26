@@ -1,14 +1,22 @@
-import { NavigationProvider } from "./context/navigation";
 import Link from "./components/Link";
+import Route from "./components/Route";
+import AccordionPage from "./pages/AccordioniPage";
+import DropdownPage from "./pages/DropdownPage";
 
 function App() {
   return (
-    <NavigationProvider>
+    <div>
+      <Link to="/accordion">Go to accordion</Link>
+      <Link to="/dropdown">Go to dropdown</Link>
       <div>
-        <Link to="/accordion">Go to accordion</Link>
-        <Link to="/dropdown">Go to dropdown</Link>
+        <Route path="/accordion">
+          <AccordionPage />
+        </Route>
+        <Route path="/dropdown">
+          <DropdownPage />
+        </Route>
       </div>
-    </NavigationProvider>
+    </div>
   );
 }
 
