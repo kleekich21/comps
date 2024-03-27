@@ -88,50 +88,6 @@ function ModalPage() {
         Suspendisse vitae ante posuere, tempor nisl dignissim, aliquet arcu.
         Phasellus consectetur malesuada arcu, quis fermentum massa iaculis eu.
       </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non dui
-        diam. Cras eget enim at enim laoreet maximus. Pellentesque iaculis quam
-        quis lectus tristique aliquet. Duis sollicitudin nisi at est accumsan
-        imperdiet. Pellentesque vitae sem at est pulvinar tincidunt. Praesent
-        convallis purus diam, ac semper nisl aliquam et. Ut et consectetur nisi,
-        ut sodales eros. Sed aliquet velit vel ex rutrum, eu gravida leo
-        pharetra. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Suspendisse vitae ante posuere, tempor nisl dignissim, aliquet arcu.
-        Phasellus consectetur malesuada arcu, quis fermentum massa iaculis eu.
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non dui
-        diam. Cras eget enim at enim laoreet maximus. Pellentesque iaculis quam
-        quis lectus tristique aliquet. Duis sollicitudin nisi at est accumsan
-        imperdiet. Pellentesque vitae sem at est pulvinar tincidunt. Praesent
-        convallis purus diam, ac semper nisl aliquam et. Ut et consectetur nisi,
-        ut sodales eros. Sed aliquet velit vel ex rutrum, eu gravida leo
-        pharetra. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Suspendisse vitae ante posuere, tempor nisl dignissim, aliquet arcu.
-        Phasellus consectetur malesuada arcu, quis fermentum massa iaculis eu.
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non dui
-        diam. Cras eget enim at enim laoreet maximus. Pellentesque iaculis quam
-        quis lectus tristique aliquet. Duis sollicitudin nisi at est accumsan
-        imperdiet. Pellentesque vitae sem at est pulvinar tincidunt. Praesent
-        convallis purus diam, ac semper nisl aliquam et. Ut et consectetur nisi,
-        ut sodales eros. Sed aliquet velit vel ex rutrum, eu gravida leo
-        pharetra. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Suspendisse vitae ante posuere, tempor nisl dignissim, aliquet arcu.
-        Phasellus consectetur malesuada arcu, quis fermentum massa iaculis eu.
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non dui
-        diam. Cras eget enim at enim laoreet maximus. Pellentesque iaculis quam
-        quis lectus tristique aliquet. Duis sollicitudin nisi at est accumsan
-        imperdiet. Pellentesque vitae sem at est pulvinar tincidunt. Praesent
-        convallis purus diam, ac semper nisl aliquam et. Ut et consectetur nisi,
-        ut sodales eros. Sed aliquet velit vel ex rutrum, eu gravida leo
-        pharetra. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Suspendisse vitae ante posuere, tempor nisl dignissim, aliquet arcu.
-        Phasellus consectetur malesuada arcu, quis fermentum massa iaculis eu.
-      </p>
     </div>
   );
 }
